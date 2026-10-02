@@ -17,3 +17,14 @@
 
 1790932702 c:\users\uc\desktop\dsa_lab_2\list_by_template\include\list.h
 
+1790956170 source:c:\users\uc\desktop\pulledlab3\list_by_template\main.cpp
+	<iostream>
+	"List.h"
+
+1790956170 c:\users\uc\desktop\pulledlab3\list_by_template\include\list.h
+
+1790956170 source:c:\users\uc\desktop\pulledlab3\list_by_template\src\list.cpp
+	"List.h"
+	<iostream>
+	<string>
+
