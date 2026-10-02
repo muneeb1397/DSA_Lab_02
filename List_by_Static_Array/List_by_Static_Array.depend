@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1790883130 source:c:\users\uc\desktop\dsa_lab_2\list_by_static_array\main.cpp
+	<iostream>
+	"List.h"
+
+1790883259 c:\users\uc\desktop\dsa_lab_2\list_by_static_array\include\list.h
+
+1790883259 source:c:\users\uc\desktop\dsa_lab_2\list_by_static_array\src\list.cpp
+	"List.h"
+	<iostream>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1790932289 source:c:\users\uc\desktop\dsa practice\ass2_templates\main.cpp
+	<iostream>
+	"List.h"
+
+1790932702 c:\users\uc\desktop\dsa practice\ass2_templates\include\list.h
+
+1790932811 source:c:\users\uc\desktop\dsa practice\ass2_templates\src\list.cpp
+	"List.h"
+	<iostream>
+	<string>
+
+1790932811 source:c:\users\uc\desktop\dsa_lab_2\list_by_template\src\list.cpp
+	"List.h"
+	<iostream>
+	<string>
+
+1790932702 c:\users\uc\desktop\dsa_lab_2\list_by_template\include\list.h
+

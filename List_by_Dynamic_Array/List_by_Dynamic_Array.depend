@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1790883515 source:c:\users\uc\desktop\dsa practice\ass2_dynamic\main.cpp
+	<iostream>
+	"List.h"
+
+1790883515 c:\users\uc\desktop\dsa practice\ass2_dynamic\include\list.h
+
+1790885033 source:c:\users\uc\desktop\dsa practice\ass2_dynamic\src\list.cpp
+	"List.h"
+	<iostream>
+
+1790885100 source:c:\users\uc\desktop\dsa_lab_2\list_by_dynamic_array\main.cpp
+	<iostream>
+	"List.h"
+
+1790883515 c:\users\uc\desktop\dsa_lab_2\list_by_dynamic_array\include\list.h
+
+1790885033 source:c:\users\uc\desktop\dsa_lab_2\list_by_dynamic_array\src\list.cpp
+	"List.h"
+	<iostream>
+
